@@ -4,6 +4,16 @@ body{
     margin: 0;
 }
 
+
+/* Utilities*/
+
+.container {
+    max-width: 1000px;
+    margin: 0, auto;
+}
+
+
+/* Main Header */
 #main-header{
     height: 100px;
     background-color: lightcoral;
