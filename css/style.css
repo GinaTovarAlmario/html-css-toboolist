@@ -71,6 +71,19 @@ ul{
 .menu {
     font-size: xx-small;
 }
+/*Realizzazioni classi attività fatte e non*/
+
+.done {
+    color: green;
+    
+
+}
+
+.notdone{
+    color: red;
+    
+
+}
 
 .round {
     color: white;
@@ -78,6 +91,7 @@ ul{
     border-radius: 30%;
     font-family:verdana;
     font-size: xx-small;
+    display: inline-block;
 
 }
 
