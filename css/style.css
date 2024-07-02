@@ -8,7 +8,6 @@
 body{
     margin: 0;
     background-color: whitesmoke;
-
 }
 
 h1{
@@ -16,7 +15,6 @@ h1{
     display: inline;
     margin-left: 10px;
     vertical-align: middle;
-
 }
 
 button {
@@ -24,7 +22,6 @@ button {
     padding: 5px 10px;
     border-radius: 11%;
     font-style: normal;
-
 }
 
 section {
@@ -34,7 +31,6 @@ section {
 ul{
     list-style-type: none;
     margin-top: 10px;
-
 }
 
 /* Utilities*/
@@ -57,7 +53,6 @@ ul{
     height: 60px;
     margin-top: 10px;
     vertical-align: middle;
-
 }
 
 /* Dati del Main*/
@@ -74,15 +69,14 @@ ul{
 /*Realizzazioni classi attività fatte e non*/
 
 .circle{
-    
-        display: inline-block;
-        width: 15px;
-        height: 15px;
-        margin-right: 10px;
-        border-radius: 50%;
-        line-height: 15px;
-        font-size: 10px;
-        text-align: center;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
 }
     
 .done {
@@ -102,36 +96,28 @@ ul{
     font-family:verdana;
     font-size: xx-small;
     display: inline-block;
-
 }
 
 .editorial {
     background-color: #45abeb;
-
-
 }
 
 .Q1-goals {
     background-color: #9d72e5;
-
 }
 
 .recruiting {
     background-color: #d1fff7;
-
 }
 
 .mobile {
     background-color: #ecbb7a;
-
 }
 
 .website {
     background-color: #cc6b99;
-
 }
 
 .sales {
     background-color: #b0c82e;
-
 }
