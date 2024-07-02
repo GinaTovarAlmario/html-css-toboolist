@@ -17,20 +17,25 @@ h1{
     vertical-align: middle;
 }
 
-button {
+button{
     color: gray;
     padding: 5px 10px;
     border-radius: 11%;
     font-style: normal;
 }
 
-section {
+section{
     padding: 5px 10px;
 }
 
 ul{
     list-style-type: none;
+    margin-top: 15px;
+}
+
+li{
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* Utilities*/
