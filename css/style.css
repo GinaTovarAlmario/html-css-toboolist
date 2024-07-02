@@ -20,6 +20,7 @@ h1{
 }
 
 button {
+    color: gray;
     padding: 5px 10px;
     border-radius: 11%;
     font-style: normal;
@@ -71,8 +72,18 @@ ul{
     font-size: xx-small;
 }
 
+.round {
+    color: white;
+    padding: 2px;
+    border-radius: 30%;
+    font-family:verdana;
+    font-size: xx-small;
+
+}
+
 .editorial {
     background-color: #45abeb;
+
 
 }
 
