@@ -36,7 +36,6 @@ ul{
 
 }
 
-
 /* Utilities*/
 
 .container {
@@ -45,7 +44,6 @@ ul{
     border: 1px solid grey;
     background-color: white;
 }
-
 
 /* Main Header */
 #main-header{
@@ -61,7 +59,6 @@ ul{
 
 }
 
-
 /* Dati del Main*/
 
 .option {
@@ -69,6 +66,37 @@ ul{
     margin-top: 20px;
 }
 
+/*dimensioniamo caratteri speciali*/
 .menu {
     font-size: xx-small;
+}
+
+.editorial {
+    background-color: #45abeb;
+
+}
+
+.Q1-goals {
+    background-color: #9d72e5;
+
+}
+
+.recruiting {
+    background-color: #d1fff7;
+
+}
+
+.mobile {
+    background-color: #ecbb7a;
+
+}
+
+.website {
+    background-color: #cc6b99;
+
+}
+
+.sales {
+    background-color: #b0c82e;
+
 }
