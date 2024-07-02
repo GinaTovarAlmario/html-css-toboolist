@@ -7,6 +7,7 @@
 
 body{
     margin: 0;
+    background-color: whitesmoke;
 
 }
 
@@ -41,14 +42,15 @@ ul{
 .container {
     max-width: 1000px;
     margin: 0 auto;
-    background-color: gray;
+    border: 1px solid grey;
+    background-color: white;
 }
 
 
 /* Main Header */
 #main-header{
     height: 80px;
-    background-color: lightcoral;
+    background-color: white;
 }
 
 /*Header*/
