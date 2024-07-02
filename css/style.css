@@ -73,16 +73,26 @@ ul{
 }
 /*Realizzazioni classi attività fatte e non*/
 
+.circle{
+    
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        border-radius: 50%;
+        line-height: 15px;
+        font-size: 10px;
+        text-align: center;
+}
+    
 .done {
     color: green;
-    
-
+    border: 1px solid green;
 }
 
 .notdone{
     color: red;
-    
-
+    border: 1px solid red;
 }
 
 .round {
