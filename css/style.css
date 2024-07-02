@@ -2,6 +2,15 @@
 
 body{
     margin: 0;
+
+}
+
+h1{
+    font-weight: bolder ;
+    display: inline;
+    margin-left: 10px;
+    vertical-align: middle;
+
 }
 
 
@@ -9,12 +18,21 @@ body{
 
 .container {
     max-width: 1000px;
-    margin: 0, auto;
+    margin: 0 auto;
+    background-color: gray;
 }
 
 
 /* Main Header */
 #main-header{
-    height: 100px;
+    height: 80px;
     background-color: lightcoral;
+}
+
+/*Header*/
+#logo {
+    height: 60px;
+    margin-top: 10px;
+    vertical-align: middle;
+
 }
