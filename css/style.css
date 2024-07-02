@@ -42,8 +42,7 @@ li{
 
 .container {
     max-width: 1000px;
-    margin: 20px auto;
-    border: 1px solid grey;
+    margin: 0 auto;
     background-color: white;
 }
 
@@ -65,7 +64,7 @@ li{
 .option {
     padding: 10px;
     margin-top: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 /*dimensioniamo caratteri speciali*/
